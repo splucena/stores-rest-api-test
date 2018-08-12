@@ -1,0 +1,5 @@
+.idea/
+Procfile
+runtime.txt
+uwsgi.ini
+			
